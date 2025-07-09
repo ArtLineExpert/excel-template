@@ -1,7 +1,12 @@
 {
   "ИНФО": {
     "A1:F1": {
-      "value": "№ Intradesk-1:",
+      "value": "№ Intradesk:",
+      "merge": true,
+      "columnWidth": 20
+    },
+    "K1:P1": {
+      "value": "Номер дела дельта:",
       "merge": true,
       "columnWidth": 20
     },
@@ -18,4 +23,5 @@
     "E6": "2025-07-08"
   }
 }
+
 
