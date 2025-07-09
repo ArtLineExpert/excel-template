@@ -1,5 +1,9 @@
 {
   "ИНФО": {
+    "_sheetSettings": {
+      "columnWidth": 3,
+      "rowHeight": 20
+    },
     "A1:F1": {
       "value": "№ Intradesk:",
       "merge": true,
